@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FjU2NQXMaXynR2onx1rXkQL6aZHKScpdpFWLp7ZM0Fk=",
+  "Source": "TryMultiTenant",
+  "BasePath": "_content/TryMultiTenant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
